@@ -1,4 +1,4 @@
-#tentang pengkodingan java.
+tentang pengkodingan java.
 
 = Introduction =
 
