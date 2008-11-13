@@ -1,0 +1,9 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+desain menjelaskan tentang cara kerja dasar sistem perkreditan di columbia finance
+
+
+= Details =
+
