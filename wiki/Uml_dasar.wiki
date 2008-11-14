@@ -1,4 +1,4 @@
-#gambar
+#gambar tata kerja sistem uml
 
 = Introduction =
 
