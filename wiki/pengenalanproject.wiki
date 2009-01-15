@@ -7,19 +7,9 @@ Sistem yang akan kami buat mencakup prosedur dari penjualan dengan proses cash d
 Transaksi penjualan produk (cash) yang melibatkan ; data barang, data transaksi, serta data pelanggan.
 Transaksi penjualan produk (credit) yang melibatkan ; data barang, data transaksi, serta data pelanggan.
 Laporan hasil survey oleh surveyor apabila pembelian produk dilakukan dengan angsuran.
-Proses pembiayaan atau angsuran.
+Proses pembiayaan atau angsuran
 
-A.	Prosedur transaksi Penjualan Produk Secara Cash
-
-a.	Konsumen datang ke showroom
- b.	Sales Counter / pramuniaga melayani konsumen
-c.	Konsumen membeli barang di Columbia Finance 
-d.	Konsumen membayar di kasir
-e.	Konsumen mendapat kwintansi atas pembayaran
-f.	Konsumen memperoleh barang 
-
-
-B.	Prosedur transaksi Penjualan Produk Secara Kredit
+Prosedur transaksi Penjualan Produk Secara Kredit
 
 a.	Konsumen mengisi order / permohonan kredit dengan syarat :
  Fotocopy KTP, fotocopy KK/surat nikah, rekening listrik, pas photo 1  lembar, biaya administrasi Rp. 26.000,-.
@@ -37,4 +27,3 @@ e. Tim survey memberikan hasil survey kepada admin untuk diperiksa    kelayakann
 f.	Setelah semua prosedur selesai maka keesokan harinya barang akan diantar oleh bagian pengiriman barang atau kurir (barang berat) dan konsumen menyiapkan uang yang telah ditentukan (angsuran + sisa adm).
 
  
-
